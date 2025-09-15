@@ -1,6 +1,6 @@
 # Fracture Labs bot domain
-This website and its corresponding [https://github.com/FractureMCLabs/bots](Github Repo) are used for listing our bot accounts used in the Nostr ecosystem and for verifying them. 
-You can get the JSON list of the verified accounts [https://bots.fracturelabs.us.to/.well-known/nostr.json](here).
+This website and its corresponding [Github Repo](https://github.com/FractureMCLabs/bots) are used for listing our bot accounts used in the Nostr ecosystem and for verifying them. 
+You can get the JSON list of the verified accounts [here](https://bots.fracturelabs.us.to/.well-known/nostr.json).
 ## Bots currently in use:
 We don't have any bot accounts that are currently used in production environment.
 ## Bots currently in testing/development:
